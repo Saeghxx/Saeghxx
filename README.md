@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saeghxx/Saeghxx/main/totoro.gif" width="800" style="border-radius:10px;"/>
+  <img src="https://raw.githubusercontent.com/Saeghxx/Saeghxx/main/leaves.gif" width="800"/>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
