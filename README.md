@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/WoR3wMdCAHd2r8y19d/giphy.gif" width="600"/>
+<img src="https://media.tenor.com/nA0nbnwW0Rx.gif" width="600"/>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
