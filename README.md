@@ -1,5 +1,6 @@
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300"/>
-
+<p align="center">
+  <img src="https://i.postimg.cc/mD8GjQ4v/image-7.png" alt="Animated Maple Leaves Banner" width="800" />
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A40D0D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alina;KPI+Software+Engineering;Tech%3A+JS%2C+C%23%2C+C%2B%2B+and+TS;Background%3A+Video+Editing+%26+Art;Goal%3A+3D+Modeling+%26+Dev+Projects" alt="Typing SVG" />
