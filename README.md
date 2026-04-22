@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Saeghxx/Saeghxx/main/leaves.gif" width="800"/>
-</p>
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
