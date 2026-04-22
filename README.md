@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/mD8GjQ4v/image-7.png" alt="Animated Maple Leaves Banner" width="800" />
+  <img src="https://i.postimg.cc/mD8GjQ4v/image-7.png" width="800" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
