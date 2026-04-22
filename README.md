@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saeghxx/Saeghxx/main/my-neighbor-totoro.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/Saeghxx/Saeghxx/main/my-neighbor.gif" width="500"/>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
