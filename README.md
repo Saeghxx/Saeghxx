@@ -50,8 +50,3 @@
 </details>
 
 </div>
-
-<p align="center">
-  <br />
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Saeghxx&icon=0&color=A40D0D" /></a>
-</p>
