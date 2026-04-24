@@ -45,6 +45,7 @@
     <a href="https://instagram.com/saeghxx"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=%23A40D0D" height="30" /></a>
     <a href="https://tiktok.com/@cereal.aep35"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=%23A40D0D" height="30" /></a>
     <a href="mailto:alina.retiznik2007@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=%23A40D0D" height="30" /></a>
+    <a href="https://t.me/mlcookie"><img src="https://img.shields.io/badge/Telegram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=%23A40D0D" height="30" /></a>
   </p>
 
 </details>
