@@ -25,11 +25,11 @@
 
   <br />
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saeghxx&theme=shadow_red&hide_border=false&show_icons=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeghxx&theme=shadow_red&hide_border=false&layout=compact" height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saeghxx&theme=shadow_red&hide_border=false" height="150" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Saeghxx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://streak-stats.demolab.com/?user=Saeghxx&theme=shadow_red&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Saeghxx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/C%23-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=%23A40D0D" height="35" />
